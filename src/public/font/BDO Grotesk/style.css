@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'BDO Grotesk';
+    src: url('BDOGrotesk-DemiBold.woff2') format('woff2'),
+        url('BDOGrotesk-DemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BDO Grotesk';
+    src: url('BDOGrotesk-Bold.woff2') format('woff2'),
+        url('BDOGrotesk-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BDO Grotesk';
+    src: url('BDOGrotesk-Black.woff2') format('woff2'),
+        url('BDOGrotesk-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BDO Grotesk';
+    src: url('BDOGrotesk-ExtraBold.woff2') format('woff2'),
+        url('BDOGrotesk-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BDO Grotesk';
+    src: url('BDOGrotesk-Medium.woff2') format('woff2'),
+        url('BDOGrotesk-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BDO Grotesk';
+    src: url('BDOGrotesk-Light.woff2') format('woff2'),
+        url('BDOGrotesk-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BDO Grotesk';
+    src: url('BDOGrotesk-Regular.woff2') format('woff2'),
+        url('BDOGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BDO Grotesk';
+    src: url('BDOGrotesk-Regular.woff2') format('woff2'),
+        url('BDOGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
